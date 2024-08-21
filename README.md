@@ -9,7 +9,7 @@ AI predicting online customer shopping trends through supervised learning.
 6. Run the file with Python 3 using the following command, choosing which model you would like to use out of
 k-nearest neighbour (knn), support vector machine (svm) or perceptron (perceptron)
 ```bash
-python shopping.py shopping.csv knn
+python shopping_multi_model.py shopping.csv knn
 ```
 7. Watch the AI learn from the data and evaluate its own accuracy
 
