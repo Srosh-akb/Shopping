@@ -1,5 +1,5 @@
 # Shopping
-AI predicting online customer shopping trends through supervised learning.
+CS50AI Project 4a - AI predicting online customer shopping trends through supervised learning.
 
 ## Instructions
 1. Download this repository to your device.
