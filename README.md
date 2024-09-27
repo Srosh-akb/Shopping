@@ -6,7 +6,10 @@ CS50AI Project 4a - AI predicting online customer shopping trends through superv
 2. Open a terminal or command prompt.
 3. Navigate to the directory where you downloaded the repository.
 4. Install the requirements usign the following command
-5. Run the file with Python 3 using the following command, choosing which model you would like to use out of:
+```bash
+pip3 install -r requirements.txt
+```
+6. Run the file with Python 3 using the following command, choosing which model you would like to use out of:
 k-nearest neighbour (knn), support vector machine (svm) or perceptron (perceptron)
 ```bash
 python shopping_multi_model.py shopping.csv knn
